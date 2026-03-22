@@ -1,3 +1,5 @@
+[![Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code%20Repos-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # How-To-MCP
 
 A guide for instructing AI agents (like Claude Code) on how to provision and manage MCP (Model Context Protocol) server connections according to a user's specific preferences.
@@ -125,3 +127,7 @@ The tiered preference system reflects one user's workflow. Adapt it:
 - **Collaborative projects?** Add guidance about project-level `.mcp.json` and shared authentication.
 - **Multiple AI agents?** Emphasize Tier 2 (aggregator) for vendor independence.
 - **Primarily need filesystem access?** Default to Tier 3 and note the portability trade-off.
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
